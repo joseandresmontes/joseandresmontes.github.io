@@ -7,6 +7,6 @@ entries_layout: grid
 classes: wide
 author_profile: true
 header:
-  images: "/images/waterfront.jpg"
+  image: "/images/background-projects.jpg"
 ---
 
