@@ -17,10 +17,3 @@ Topics of interests with related projects:
 * Economics
   * Trade
   * Point Reward Systems
-  
-* General
-  * Data Aquicition
-  * Data Management
-
-These three main topics of interests are tagged to projects so that they can be coveniently accessed. For example, to search for nonprofit related projects, filter by nonprofit tag in the project post page. 
-  
