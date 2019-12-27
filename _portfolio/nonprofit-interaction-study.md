@@ -6,7 +6,7 @@ header:
   teaser: "images/post-1.jpg"
 ---
 
-# Intro
+## Intro
 
 Analysis of cross-sectional 2015 NCCS data displays how interactions affect contributions given on nonprofits based on their taxonomy and where they are located.
 

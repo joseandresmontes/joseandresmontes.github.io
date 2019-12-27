@@ -16,5 +16,7 @@ Columbia University, Graduate Degree
 
 ### Work Experience
 
-Bank Street College
+Bank Street College, Research Assistant Intern
+JP Morgan Chase, Corporate Development Intern
+First Republic Bank, Business Banking Intern
 
