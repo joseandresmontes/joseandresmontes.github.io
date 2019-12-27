@@ -97,7 +97,7 @@ analytics:
 # Site Author
 author:
   name             : "Andres Montes"
-  avatar           : "/assets/images/bio-photo.jpg"
+  avatar           : "images/bio-photo.jpg"
   bio              : "Data Analysis Portfolio"
   location         : "New York, NY"
   links:
@@ -115,7 +115,7 @@ author:
 footer:
   links:
     - label: "Linkedin"
-      icon: "fas fa-fw fa-linkedin"
+      icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/montes-lopez/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"

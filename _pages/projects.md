@@ -7,6 +7,6 @@ entries_layout: grid
 classes: wide
 author_profile: true
 header:
-  images: "/assets/images/background-2.jpg"
+  images: "/images/background-2.jpg"
 ---
 
