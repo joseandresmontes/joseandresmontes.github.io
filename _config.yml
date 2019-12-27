@@ -8,11 +8,11 @@ locale                   : "en-US"
 title                    : "Jose Andres Montes Lopez"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : &name "Jose Andres Montes Lopez"
-description              : &description "Data Analysis Portfolio"
-url                      : "https://joseandresmontes.github.io"
-baseurl                  : "/joseandresmontes.github.io"
-repository               : "joseandresmontes/joseandresmontes.github.io"
+name                     : "Jose Andres Montes Lopez"
+description              : "Data Analysis Portfolio"
+url                      : #"https://joseandresmontes.github.io"
+baseurl                  : #"/joseandresmontes.github.io"
+repository               : #"joseandresmontes/joseandresmontes.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
@@ -96,7 +96,7 @@ analytics:
 
 # Site Author
 author:
-  name             : *name
+  name             : "Andres Montes"
   avatar           : "/assets/images/bio-photo.jpg"
   bio              : "Data Analysis Portfolio"
   location         : "New York, NY"
