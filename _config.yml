@@ -10,7 +10,7 @@ title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Jose Andres Montes Lopez"
 description              : "Data Analysis Portfolio"
-url                      : https://joseandresmontes.github.io
+url                      : "https://joseandresmontes.github.io""
 baseurl                  : #"/joseandresmontes.github.io"
 repository               : "joseandresmontes/joseandresmontes.github.io""
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
