@@ -102,7 +102,7 @@ author:
   location         : "New York, NY"
   links:
     - label: "Linkedin"
-      icon: "fas fa-fw fa-linkedin"
+      icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/montes-lopez/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
