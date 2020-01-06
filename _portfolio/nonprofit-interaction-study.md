@@ -42,8 +42,6 @@ Cross tabulation (provided in appendix) and additional visualization display the
 
 ## Results
 
-image: images/post-1-model_interaction.jpg
-
 The model was improved by adding taxonomy and interaction term that gets to the question of interest more directly. It also adds to the explanatory power of the model (6%). An interaction model simply takes the naïve OLS model and includes an interaction term to estimate the relationship between independent variables and their respective impact on the dependent variable. In this study, the interaction between an organization's IRS defined taxonomy and what state it is based on is estimated to see whether it is statistically significant in determining the number of contributions that a nonprofit can expect to get. In other words, it is exploring whether different taxonomy categories have different effects based on their location (TX or NY).
 
 The model shows that there are several occasions in which the interaction term is statistically significant. In these cases, the model suggests that the IRS taxonomy of a nonprofit has a different effect based on whether it is found in Texas or New York. For example, knowing whether a nonprofit belongs to the taxonomy of education institutions and related activities (Taxonomy B) and is based in Texas is statistically significant, suggesting that in Texas, there is an adjustment of -0.280634 log contributions made by the interaction term that helps to describe the relationship better. In this same case, if a nonprofit is based in New York, there would be no adjustments, and the estimated contributions would simply be Y = 12.034 log +.2872 log (Taxonomy B).
