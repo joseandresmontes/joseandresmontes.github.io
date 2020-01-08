@@ -1,4 +1,0 @@
-"0","```r
-
-saveRDS(irs_data, file = \"api_client_output.RDS\")
-```"

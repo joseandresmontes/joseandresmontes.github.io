@@ -1,9 +1,0 @@
-"0","```r
-# converts response into a parsable data structure via json method
-content <- fromJSON(content(parameter_response,\"text\"))
-
-# merges (flattens) data frames into one dataframe  
-data <- flatten(content)
-data <- data[-c(1),]
-data
-```"
