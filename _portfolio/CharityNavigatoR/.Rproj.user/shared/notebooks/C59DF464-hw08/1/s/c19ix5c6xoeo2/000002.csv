@@ -1,0 +1,29 @@
+"0","```r
+#code was saved in environment, sets limit to 150 and to only count California Nonprofits
+query_params <- list(app_key = Sys.getenv(\"CHARITY_APP_KEY\"),
+                     app_id = Sys.getenv(\"CHARITY_APP_ID\"),
+                     pageSize = 300,
+                     state = \"CA\")
+
+#getting response from query parameters
+parameter_response <- GET(charity_endpoint, query=query_params)
+parameter_response
+```"
+"1","Response [https://api.data.charitynavigator.org/v2/Organizations?app_key=e590bf12c5cdd52b18d1a420dbb2d5c1&app_id=5408c436&pageSize=300&state=CA]
+  Date: 2019-11-17 22:42
+  Status: 200
+  Content-Type: application/json; charset=utf-8
+  Size: 561 kB
+"
+"0","```r
+#request status
+parameter_response$status_code
+```"
+"1","[1] 200
+"
+"0","```r
+#check type or response
+http_type(parameter_response)
+```"
+"1","[1] \"application/json\"
+"

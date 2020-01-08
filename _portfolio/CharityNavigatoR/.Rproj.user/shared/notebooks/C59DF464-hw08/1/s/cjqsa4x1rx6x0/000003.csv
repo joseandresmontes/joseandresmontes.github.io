@@ -1,0 +1,52 @@
+"0","```r
+
+
+# selects data frame accessible from the json response and replaces groupname with more robusts names available from a vector available in the inital JSON string
+irs_data <- content$irsClassification
+irs_data$groupName <- content$charityName
+
+
+saveRDS(irs_data, file = \"data.rds\")
+summary(irs_data)
+```"
+"1"," deductibility       subsection         assetAmount          nteeType          nteeSuffix       
+ Length:300         Length:300         Min.   :0.000e+00   Length:300         Length:300        
+ Class :character   Class :character   1st Qu.:0.000e+00   Class :character   Class :character  
+ Mode  :character   Mode  :character   Median :1.036e+04   Mode  :character   Mode  :character  
+                                       Mean   :6.885e+06                                        
+                                       3rd Qu.:1.843e+05                                        
+                                       Max.   :1.519e+09                                        
+                                       NA's   :55                                               
+  incomeAmount       filingRequirement  classification      latest990          rulingDate       
+ Min.   :        0   Length:300         Length:300         Length:300         Length:300        
+ 1st Qu.:        0   Class :character   Class :character   Class :character   Class :character  
+ Median :    14604   Mode  :character   Mode  :character   Mode  :character   Mode  :character  
+ Mean   :  3799960                                                                              
+ 3rd Qu.:   188375                                                                              
+ Max.   :786355941                                                                              
+ NA's   :55                                                                                     
+   nteeCode          groupName         deductibilityCode  affiliation        foundationStatus  
+ Length:300         Length:300         Length:300         Length:300         Length:300        
+ Class :character   Class :character   Class :character   Class :character   Class :character  
+ Mode  :character   Mode  :character   Mode  :character   Mode  :character   Mode  :character  
+                                                                                               
+                                                                                               
+                                                                                               
+                                                                                               
+ nteeClassification accountingPeriod   deductibilityDetail exemptOrgStatus    exemptOrgStatusCode
+ Length:300         Length:300         Mode:logical        Length:300         Length:300         
+ Class :character   Class :character   NA's:300            Class :character   Class :character   
+ Mode  :character   Mode  :character                       Mode  :character   Mode  :character   
+                                                                                                 
+                                                                                                 
+                                                                                                 
+                                                                                                 
+  nteeLetter       
+ Length:300        
+ Class :character  
+ Mode  :character  
+                   
+                   
+                   
+                   
+"

@@ -1,0 +1,4 @@
+"0","```r
+#R.home(component = \"home\")
+#usethis::edit_r_environ()
+```"
