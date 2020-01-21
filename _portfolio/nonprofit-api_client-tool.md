@@ -11,7 +11,6 @@ excerpt: Access Data in R from Charity Navigator
 Charity Navigator is the largest and most-utilized charity evaluator in America. The organization helps guide intelligent giving by evaluating the Financial Health, Accountability and Transparency of over 9,000 charities and provides basic data on the rest of the 1.8 million U.S. nonprofits. Charity Navigator accepts no advertising or donations from the organizations it evaluates, ensuring unbiased evaluations, nor does it charge the public for this trusted data. As a result, Charity Navigator, a non-profit 501 (c) (3) public charity itself, depends on support from individuals, corporations and foundations that believe it provides a much-needed service to America's charitable givers.
 
 This package will provide access to the new API that Charity Navigator has created. I am managing this R package ad-hoc and it is in early. If you need more robust or customizable access, please consult the online API schematic.
-___
 
 ## Installation and Setup
 Install the latest version from github as follows.
