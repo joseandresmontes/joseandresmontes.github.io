@@ -24,7 +24,7 @@ HiveUp, Business Development Intern
 
 First Republic Bank, Business Banking Intern
 
-## Pro Bono Work Experience
+### Pro Bono Work Experience
 
 Social Business Consulting, Senior Consultant and Project Manager
 
