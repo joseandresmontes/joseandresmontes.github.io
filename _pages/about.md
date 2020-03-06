@@ -18,13 +18,17 @@ Graduate Degree in Quantitative Methods in Social Sciences
 
 ### Work Experience
 
-Bank Street College, \n Research Assistant Intern
+Bank Street College, \n 
+Research Assistant Intern
 
-JP Morgan Chase, \n Corporate Development Intern
+JP Morgan Chase, \n 
+Corporate Development Intern
 
-HiveUp, \n Business Development Intern
+HiveUp, \n 
+Business Development Intern
 
-First Republic Bank, \n Business Banking Intern
+First Republic Bank, \n 
+Business Banking Intern
 
 ### Pro Bono Work Experience
 
