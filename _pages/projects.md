@@ -7,6 +7,6 @@ entries_layout: grid
 classes: wide
 author_profile: false
 header:
-  image: "/images/background-projects.jpg"
+  overlay_image: "/images/background-projects.jpg"
 ---
 
