@@ -1,7 +1,7 @@
 ---
 title: "About"
 header:
-  image: /images/background-about.jpg
+  overlay_image: /images/background-about.jpg
 permalink: /about/
 author_profile: yes
 ---
