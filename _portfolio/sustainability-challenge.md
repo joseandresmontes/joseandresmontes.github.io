@@ -21,6 +21,8 @@ However, costs associated with the underdevelopment of the domestic seaweed indu
 
 ## The Idea
 
+Our fund addresses the plastic waste issue and seaweed supply challenges in the Indonesia. Our proposal seeks to help the seaweed industry meet the growing demand for seaweed while enabling businesses transition to this bio-degradable, ecologically friendly, and job-creating material.
+
 ### Innovative Solution
 
 Proposed investments seek to improve the reliability and stability in seaweed supply market through collection operations in an LLC and help the finance transition or scaling of businesses through an innovative purchase agreement linked loan instrument called "SeaLess Plastic" (SLP) Loans.
