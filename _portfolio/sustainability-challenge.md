@@ -51,3 +51,8 @@ Seaweed based Plastics outcompetes every alternative on the market.  As a form o
 
 Collection estimates are based on low to high estimated production levels from 60 farms derived from similar projects and at a selling price of .60 cents per kg. (Net Margin of .20 cents) 
 Yield estimates are based on 136 loans fully amortized annual loans at the "Blue Rate" distributed based on business size with the largest concentration (74%) on small businesses. No reinvestment is considered.
+
+
+### Media
+
+<iframe width="504" height="545" title="Embedded post" src="https://www.linkedin.com/embed/feed/update/urn:li:share:6655577706060623872" frameborder="0" allowfullscreen=""></iframe>
