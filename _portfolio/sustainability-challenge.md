@@ -54,5 +54,5 @@ Yield estimates are based on 136 loans fully amortized annual loans at the "Blue
 
 
 ### Media
-
+<center>
 <iframe width="504" height="545" title="Embedded post" src="https://www.linkedin.com/embed/feed/update/urn:li:share:6655577706060623872" frameborder="0" allowfullscreen=""></iframe>
