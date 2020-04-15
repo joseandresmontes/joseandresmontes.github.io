@@ -55,4 +55,8 @@ Yield estimates are based on 136 loans fully amortized annual loans at the "Blue
 
 ### Media
 <center>
+
+<blockquote class="embedly-card"><h4><a href="https://www.morganstanley.com/ideas/kellogg-morgan-stanley-sustainable-investing-challenge-2020-finalists">The Challenge: Mobilizing Finance to Improve the World | Morgan Stanley</a></h4><p>This year, Northwestern University's Kellogg School of Management celebrates a decade of hosting the Challenge and fostering exciting innovations in sustainable investing. As lead sponsor of the event for the last seven years, Morgan Stanley's Institute for Sustainable Investing has been a proud supporter of the Challenge and looks forward to continuing to build sustainable investing capacity for the next generation of finance professionals.</p></blockquote>
+<script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
+
 <iframe width="504" height="545" title="Embedded post" src="https://www.linkedin.com/embed/feed/update/urn:li:share:6655577706060623872" frameborder="0" allowfullscreen=""></iframe>
