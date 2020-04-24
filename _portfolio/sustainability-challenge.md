@@ -53,7 +53,7 @@ Collection estimates are based on low to high estimated production levels from 6
 Yield estimates are based on 136 loans fully amortized annual loans at the "Blue Rate" distributed based on business size with the largest concentration (74%) on small businesses. No reinvestment is considered.
 
 
-### Media
+## Media
 <center>
 
 <blockquote class="embedly-card"><h4><a href="https://www.morganstanley.com/ideas/kellogg-morgan-stanley-sustainable-investing-challenge-2020-finalists">The Challenge: Mobilizing Finance to Improve the World | Morgan Stanley</a></h4><p>This year, Northwestern University's Kellogg School of Management celebrates a decade of hosting the Challenge and fostering exciting innovations in sustainable investing. As lead sponsor of the event for the last seven years, Morgan Stanley's Institute for Sustainable Investing has been a proud supporter of the Challenge and looks forward to continuing to build sustainable investing capacity for the next generation of finance professionals.</p></blockquote>
@@ -66,6 +66,9 @@ Yield estimates are based on 136 loans fully amortized annual loans at the "Blue
 <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
 
 <blockquote class="embedly-card"><h4><a href="https://www.marketwatch.com/press-release/refugee-etf-wins-2020-kellogg-morgan-stanley-sustainable-investing-challenge-2020-04-21">Refugee ETF Wins 2020 Kellogg-Morgan Stanley Sustainable Investing Challenge</a></h4><p>The MarketWatch News Department was not involved in the creation of the content. Morgan Stanley's Institute for Sustainable Investing and Northwestern University's Kellogg School of Management today announced that the Refugee ETF team was named the winner of the 2020 Kellogg-Morgan Stanley Sustainable Investing Challenge.</p></blockquote>
+<script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
+
+<blockquote class="embedly-card"><h4><a href="https://finance.yahoo.com/news/refugee-etf-wins-2020-kellogg-170000699.html">Refugee ETF Wins 2020 Kellogg-Morgan Stanley Sustainable Investing Challenge</a></h4><p>Morgan Stanley's Institute for Sustainable Investing and Northwestern University's Kellogg School of Management today announced that the Refugee ETF team was named the winner of the 2020 Kellogg-Morgan Stanley Sustainable Investing Challenge. The team was one of 12 finalists competing in the digital</p></blockquote>
 <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
 
 <iframe width="504" height="545" title="Embedded post" src="https://www.linkedin.com/embed/feed/update/urn:li:share:6655577706060623872" frameborder="0" allowfullscreen=""></iframe>
