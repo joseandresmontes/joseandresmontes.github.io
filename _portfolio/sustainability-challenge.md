@@ -61,6 +61,8 @@ Following images feature details of award placing teams. While we managed to obt
 
 <iframe width="504" height="545" title="Embedded post" src="https://www.linkedin.com/embed/feed/update/urn:li:share:6655577706060623872" frameborder="0" allowfullscreen=""></iframe>
 
+<iframe width="504" height="736" title="Embedded post" src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:6658438008636788736" frameborder="0" allowfullscreen=""></iframe>
+
 <blockquote class="embedly-card"><h4><a href="https://impactalpha.com/the-sustainable-investing-challenge-has-become-a-leading-indicator-of-talent-and-ideas/">The Sustainable Investing Challenge has become a leading indicator of talent and ideas</a></h4><p>ImpactAlpha, Apr. 15 - MBA programs generally teach students what's achievable using common investment tools like venture capital, private equity and debt. Business (and public policy) students competing in this year's Kellogg-Morgan Stanley Sustainable Investing Challenge have been challenged first to imagine what's possible, then to engineer a financial instrument to make it happen.</p></blockquote>
 <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
 
