@@ -8,7 +8,7 @@ locale                   : "en-US"
 title                    : "Jose Andres Montes Lopez"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Jose Andres Montes Lopez"
+name                     : "Welcome"
 description              : "Data Analysis Portfolio"
 url                      : #"https://joseandresmontes.github.io"
 baseurl                  : #"/joseandresmontes.github.io"

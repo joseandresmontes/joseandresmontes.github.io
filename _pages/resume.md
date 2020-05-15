@@ -1,5 +1,5 @@
 ---
-title: "Bio"
+title: "Resume"
 header:
   overlay_image: /images/background-about.jpg
 permalink: /about/
