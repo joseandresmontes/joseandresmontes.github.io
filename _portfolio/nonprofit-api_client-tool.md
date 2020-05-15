@@ -1,5 +1,5 @@
 ---
-title: "Nonprofit Charity Navigator Tool"
+title: "Nonprofit Charity Navigator API Client"
 header:
   image: images/post-2.jpg
   teaser: images/post-2.jpg
