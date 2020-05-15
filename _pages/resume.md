@@ -2,7 +2,7 @@
 title: "Resume"
 header:
   overlay_image: /images/background-about.jpg
-permalink: /about/
+permalink: /Resume/
 author_profile: yes
 ---
 
