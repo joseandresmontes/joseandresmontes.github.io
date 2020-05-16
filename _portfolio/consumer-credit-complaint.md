@@ -1,5 +1,5 @@
 ---
-title: "Consumer Credit Complaint NLP Analysis"
+title: "Credit Complaint NLP Analysis"
 header:
   image: images/post-4.jpg
   teaser: images/post-4.jpg
