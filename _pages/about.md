@@ -13,33 +13,24 @@ My name is Jose Andres Montes Lopez, and I am an aspiring researcher who hopes t
 
 ### Education
 
-Cornell University, <br>
-Bachelor Degree in Industrial and Labor Relations
+Cornell University, Bachelor Degree in Industrial and Labor Relations
 
-Columbia University, <br>
-Graduate Degree in Quantitative Methods in Social Sciences
+Columbia University, Graduate Degree in Quantitative Methods in Social Sciences
 
 ### Work Experience
 
-Bank Street College, <br>
-Research Assistant Intern
+Bank Street College, Research Assistant Intern
 
-JP Morgan Chase, <br> 
-Corporate Development Intern
+JP Morgan Chase, Corporate Development Intern
 
-HiveUp, <br> 
-Business Development Intern
+HiveUp, Business Development Intern
 
-First Republic Bank, <br>
-Business Banking Intern
+First Republic Bank, Business Banking Intern
 
 ### Pro Bono Work Experience
 
-Social Business Consulting, <br>
-Senior Consultant and Project Manager
+Social Business Consulting, Senior Consultant and Project Manager
 
-Thriive Nicaragua Businesses, <br>
-University Partner Consultant
+Thriive Nicaragua Businesses, University Partner Consultant
 
-Refresh Bolivia Cornell Chapter, <br>
-President 
+Refresh Bolivia Cornell Chapter, President
