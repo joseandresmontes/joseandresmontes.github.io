@@ -281,15 +281,3 @@ defaults:
       layout: single
       toc: true
       author_profile: true
-  # _tag
-  - scope:
-      path: ""
-      type: tag
-    values:
-      author_profile: false
-  # _category
-  - scope:
-      path: ""
-      type: category
-    values:
-      author_profile: false
