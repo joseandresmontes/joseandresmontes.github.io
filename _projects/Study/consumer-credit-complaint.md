@@ -5,9 +5,7 @@ header:
   teaser: images/post-4.jpg
 excerpt: Sentiment and Topic Analysis on Complaint Database
 category: Study
-tags:
-  - R
-  - Finance
+tags: [R,Finance]
 ---
 
 # Introduction
