@@ -31,6 +31,10 @@ Finally, topic modeling used the gensim package. The package uses Latent Dirichl
 
 ![image-center](/images/post-4-figure-1.png){: .align-center}
 
+![image-center](/images/post-4-figure-2.png){: .align-center}
+
+![image-center](/images/post-4-figure-2.png){: .align-center}
+
 # Code
 
 ```python
