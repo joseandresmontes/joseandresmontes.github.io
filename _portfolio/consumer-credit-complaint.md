@@ -1,12 +1,12 @@
 ---
 title: "Credit Complaint NLP Analysis"
 header:
-  image: images/post-4.jpg
+#  image: images/post-4.jpg
   teaser: images/post-4.jpg
 excerpt: Sentiment and Topic Analysis on Complaint Database
 sidebar:
   - title: "Title"
-    image: http://placehold.it/350x250
+    image: images/post-4.jpg
     image_alt: "image"
     text: "Some text here."
   - title: "Another Title"
