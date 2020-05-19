@@ -19,7 +19,7 @@ Aiming to mitigate against this ecological and health hazard, seaweed-based biop
  
 However, costs associated with the underdevelopment of the domestic seaweed industry paired with high export demand have made the material unaffordable for the local economy. With the exception of South Sulawesi, whose production eclipses the aggregate of remaining production regions, the lack of unified farming practices, harvesting protocol, post-harvest processing control render supply vulnerable to volatile pricing, climatic shocks, inconsistent quality. In addition, downstream final products and operations also require affordable financing as businesses seek to transition into using seaweed-based bioplastics.
 
-## The Idea
+## Idea
 
 Our fund addresses the plastic waste issue and seaweed supply challenges in the Indonesia. Our proposal seeks to help the seaweed industry meet the growing demand for seaweed while enabling businesses transition to this bio-degradable, ecologically friendly, and job-creating material.
 
@@ -56,8 +56,6 @@ Yield estimates are based on 136 loans fully amortized annual loans at the "Blue
 ## Media
 
 Following images feature details of award placing teams. While we managed to obtain one of the available prizes, the overall winner was an ETF-Refugee fund. Our team, alongside the runner team received the same prize amount and were recognized. Hence, many of the media mentions showcase the winner while mentioning our project in the details. 
-
-<center>
 
 <iframe width="504" height="545" title="Embedded post" src="https://www.linkedin.com/embed/feed/update/urn:li:share:6655577706060623872" frameborder="0" allowfullscreen=""></iframe>
 

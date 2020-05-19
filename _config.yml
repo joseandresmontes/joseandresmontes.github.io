@@ -280,7 +280,7 @@ defaults:
     values:
       layout: single
       toc: true
-      author_profile: false
+      author_profile: true
   # _tag
   - scope:
       path: ""
