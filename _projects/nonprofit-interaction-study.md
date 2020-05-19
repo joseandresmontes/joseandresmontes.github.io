@@ -4,6 +4,8 @@ header:
   image: images/post-1.jpg
   teaser: images/post-1.jpg
 excerpt: Impact of Taxonomy and State of registration
+category: Study
+tags: [R, Nonprofit]
 ---
 
 ## Introduction

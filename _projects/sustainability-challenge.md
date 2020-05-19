@@ -4,6 +4,8 @@ header:
   image: images/post-3.jpg
   teaser: images/post-3.jpg
 excerpt: 2020 Kellogg-Morgan Stanley Challenge Finalist
+category: Study
+tags: [Finance]
 ---
 
 ## Team
@@ -57,11 +59,12 @@ Yield estimates are based on 136 loans fully amortized annual loans at the "Blue
 
 Following images feature details of award placing teams. While we managed to obtain one of the available prizes, the overall winner was an ETF-Refugee fund. Our team, alongside the runner team received the same prize amount and were recognized. Hence, many of the media mentions showcase the winner while mentioning our project in the details. 
 
+
 <iframe width="504" height="545" title="Embedded post" src="https://www.linkedin.com/embed/feed/update/urn:li:share:6655577706060623872" frameborder="0" allowfullscreen=""></iframe>
 
 <iframe width="504" height="736" title="Embedded post" src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:6658438008636788736" frameborder="0" allowfullscreen=""></iframe>
 
-<blockquote class="embedly-card"><h4><a href="https://impactalpha.com/the-sustainable-investing-challenge-has-become-a-leading-indicator-of-talent-and-ideas/">The Sustainable Investing Challenge has become a leading indicator of talent and ideas</a></h4><p>ImpactAlpha, Apr. 15 - MBA programs generally teach students what's achievable using common investment tools like venture capital, private equity and debt. Business (and public policy) students competing in this year's Kellogg-Morgan Stanley Sustainable Investing Challenge have been challenged first to imagine what's possible, then to engineer a financial instrument to make it happen.</p></blockquote>
+<blockquote class="embedly-card"><a href="https://impactalpha.com/the-sustainable-investing-challenge-has-become-a-leading-indicator-of-talent-and-ideas/">The Sustainable Investing Challenge has become a leading indicator of talent and ideas</a></h4><p>ImpactAlpha, Apr. 15 - MBA programs generally teach students what's achievable using common investment tools like venture capital, private equity and debt. Business (and public policy) students competing in this year's Kellogg-Morgan Stanley Sustainable Investing Challenge have been challenged first to imagine what's possible, then to engineer a financial instrument to make it happen.</p></blockquote>
 <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
 
 <blockquote class="embedly-card"><h4><a href="https://www.morganstanley.com/ideas/kellogg-morgan-stanley-sustainable-investing-challenge-2020-finalists">The Challenge: Mobilizing Finance to Improve the World | Morgan Stanley</a></h4><p>This year, Northwestern University's Kellogg School of Management celebrates a decade of hosting the Challenge and fostering exciting innovations in sustainable investing. As lead sponsor of the event for the last seven years, Morgan Stanley's Institute for Sustainable Investing has been a proud supporter of the Challenge and looks forward to continuing to build sustainable investing capacity for the next generation of finance professionals.</p></blockquote>
