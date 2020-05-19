@@ -182,9 +182,9 @@ kramdown:
 
 # Collections
 collections:
-  portfolio:
+  projects:
     output: true
-    permalink: /:collection/:path/
+    permalink: /:projects/:path/
 
 # Sass/SCSS
 sass:
@@ -276,7 +276,7 @@ defaults:
   # _portfolio
   - scope:
       path: ""
-      type: portfolio
+      type: projects
     values:
       layout: single
       toc: true
