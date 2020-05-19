@@ -182,7 +182,7 @@ kramdown:
 
 # Collections
 collections:
-  projects:
+  portfolio:
     output: true
     permalink: /:collection/:path/
 
@@ -276,7 +276,7 @@ defaults:
   # _portfolio
   - scope:
       path: ""
-      type: projects
+      type: portfolio
     values:
       layout: single
       toc: true
