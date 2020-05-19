@@ -3,6 +3,7 @@ title: "Resume"
 header:
   overlay_image: /images/background-about.jpg
 permalink: /resume/
+classes: wide
 author_profile: yes
 ---
 
