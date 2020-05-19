@@ -2,7 +2,7 @@
 title: "Projects"
 layout: collection
 permalink: /projects/
-collection: projects
+collection: portfolio
 entries_layout: grid
 classes: wide
 author_profile: yes
