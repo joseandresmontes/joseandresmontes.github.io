@@ -7,12 +7,9 @@ sidebar:
   - title: "Summary"
     image: images/post-4.jpg
     image_alt: "image"
-    text: "Preliminary data processing shows an overall increase in complaints and consumer
-    willingness to share complaint narratives. Sentiment analysis shows an similar and increasingly
-    better sentiment towards credit score agencies. Topic analysis shows indentity theft has grown
-    to be the most prominent concern."
-  - title: "Dataset"
-    text: "Consumer Complaint Database"
+    text: "Analysis shows an overall increase in complaints and willingness to share complaint
+    narratives. Sentiment analysis highlights improving sentiment across credit score agencies.
+    Topic analysis shows indentity theft has grown to be the most prominent concern."
 ---
 
 ## Introduction 
