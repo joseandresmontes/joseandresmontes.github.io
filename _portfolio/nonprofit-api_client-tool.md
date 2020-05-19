@@ -9,7 +9,6 @@ categories:
 tags:
   - R
   - Nonprofit
-  - API Client
 ---
 
 ## CharityNavigatoR
@@ -21,20 +20,20 @@ This package will provide access to the new API that Charity Navigator has creat
 ## Installation and Setup
 Install the latest version from github as follows.
 
-```
+```r
 devtools::install_github('JoseAndresMontes/CharityNavigatoR')
 ```
 
 Each subscriber to Charity Navigator API is uniquely identified by an ID and Key sequence, and every request to the API requires both of these credentials. After loading the CharityClient package, you should set your ID and Key in your environment as shown below. This facilitates API calls without needing to specify your ID and Key every time.
 
-```
+```r
 library(CharityNavigatoR)
 R.home(component = "home")
 usethis::edit_r_environ()`
 ```
 
 Then set your ID and Key exactly like this
-```
+```r
 CHARITY_APP_ID = x #ID Sequence
 CHARITY_APP_KEY = y #Key Sequence
 ```
@@ -45,11 +44,11 @@ CharityClient provides easy to use function for the API service, with API parame
 
 For example:
 
-```
+```r
 table <- GetOrganizations("CA")
 ```
 
-```
+```r
 >table$charityName
 [1] "Oliver's Rescue Mission"                                  
  [2] "Religious Science Church Center of San Diego"             
@@ -70,11 +69,11 @@ table <- GetOrganizations("CA")
 
 ```
 
-```
+```r
 table <- GetIRS(state="CA")
 ```
 
-```
+```r
 table$deductibility
  [1] NA                                 "Contributions are deductible"    
  [3] "Contributions are deductible"     "Contributions are deductible"    
