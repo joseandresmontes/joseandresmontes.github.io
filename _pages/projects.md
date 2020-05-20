@@ -1,7 +1,7 @@
 ---
 title: "Projects"
 header:
-  overlay_image: "/images/background-projects-4.jpg"
+  overlay_image: "/images/background-4-unsplash.jpg"
   caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
 layout: collection
 permalink: /projects/
