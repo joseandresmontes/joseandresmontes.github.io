@@ -1,5 +1,5 @@
 ---
-title: "Sustainability Challenge"
+title: "Sustainability Investing Challenge"
 header:
   image: images/post-3.jpg
   teaser: images/post-3.jpg
