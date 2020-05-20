@@ -2,6 +2,7 @@
 title: "Resume"
 header:
   overlay_image: /images/background-about.jpg
+  caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
 permalink: /resume/
 classes: wide
 author_profile: yes
