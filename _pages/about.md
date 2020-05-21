@@ -2,6 +2,8 @@
 title: "Resume"
 header:
   overlay_image: /images/background-about.jpg
+  overlay_color: "#000"
+  overlay_filter: "0.5"
   caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
 permalink: /resume/
 classes: wide
