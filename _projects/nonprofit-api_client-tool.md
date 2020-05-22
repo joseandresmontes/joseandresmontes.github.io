@@ -4,8 +4,6 @@ header:
   image: images/post-2.jpg
   teaser: images/post-2.jpg
 excerpt: Access Data in R from Charity Navigator
-category: Tool
-tags: [R,Nonprofit]
 ---
 
 ## CharityNavigatoR
