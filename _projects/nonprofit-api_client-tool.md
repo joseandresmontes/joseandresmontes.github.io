@@ -19,12 +19,12 @@ Install the latest version from github as follows.
 devtools::install_github('JoseAndresMontes/CharityNavigatoR')
 ```
 
-Each subscriber to Charity Navigator API is uniquely identified by an ID and Key sequence, and every request to the API requires both of these credentials. After loading the CharityClient package, you should set your ID and Key in your environment as shown below. This facilitates API calls without needing to specify your ID and Key every time.
+Each subscriber to Charity Navigator API is uniquely identified by an ID and Key sequence, and every request to the API requires both of these credentials. After loading the CharityNavigatoR package, you should set your ID and Key in your environment as shown below. This facilitates API calls without needing to specify your ID and Key every time.
 
 ```r
 library(CharityNavigatoR)
 R.home(component = "home")
-usethis::edit_r_environ()`
+usethis::edit_r_environ()
 ```
 
 Then set your ID and Key exactly like this
@@ -35,7 +35,7 @@ CHARITY_APP_KEY = y #Key Sequence
 Click [here](https://charity.3scale.net/login) to register with Charity Navigator and receive your credentials.
  
 ## Basic Usage
-CharityClient provides easy to use function for the API service, with API parameters as function arguments. GetOrganization function gathers all available data. GetIRS function gathers all IRS data available.
+CharityNavigatoR provides easy to use function for the API service, with API parameters as function arguments. GetOrganization function gathers all available data. GetIRS function gathers all IRS data available.
 
 For example:
 
