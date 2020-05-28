@@ -48,4 +48,7 @@ For example:
 data <- GetAnimals()
 ```
 
+## Special Mention
+Shoutout to the most gorgeous and beautiful girl in the world for inspiring me every day and suggesting taking this project on!
+
 Be sure to check out the [API documentation](https://www.petfinder.com/developers/v2/docs/) to learn more about the API. 
