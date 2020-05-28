@@ -46,7 +46,31 @@ For example:
 
 ```r
 data <- GetAnimals()
+
+> data
+         id organization_id type species      breeds.primary breeds.secondary
+1  48079622           AL122  Cat     Cat Domestic Short Hair             <NA>
+2  48079562           OH330  Dog     Dog   Italian Greyhound             <NA>
+3  48079609            KY16  Cat     Cat Domestic Short Hair            Tabby
+4  48079617            DC20  Cat     Cat Domestic Short Hair             <NA>
+5  48079618            DC20  Cat     Cat Domestic Short Hair             <NA>
+6  48079620            DC20  Cat     Cat Domestic Short Hair             <NA>
+7  48079616            DC20  Cat     Cat Domestic Short Hair             <NA>
+8  48079619            DC20  Cat     Cat Domestic Short Hair             <NA>
+9  48079610            CA59  Dog     Dog      Boston Terrier             <NA>
+10 48079611            CA59  Dog     Dog      Boston Terrier             <NA>
+11 48079612            CA59  Dog     Dog      Boston Terrier             <NA>
+12 48079613            CA59  Dog     Dog      Boston Terrier             <NA>
+13 48079601            KY16  Cat     Cat Domestic Short Hair            Tabby
+14 48079283            KY33  Cat     Cat Domestic Short Hair             <NA>
+15 48079604            SK11  Cat     Cat Domestic Short Hair             <NA>
+16 48079603            NM59  Cat     Cat  Domestic Long Hair             <NA>
+17 48079602           WA650  Dog     Dog  Labrador Retriever             <NA>
+18 48079600          FL1500  Dog     Dog           Shiba Inu          Basenji
+19 48079599           TN132  Dog     Dog           Dachshund        Chihuahua
+20 48079598           CA605  Cat     Cat Domestic Short Hair             <NA>
 ```
+The example dropped the url feature for more accessible viewing. Also, the breed column shows how nested data.frames are handled using the period (.) as the syntax delimitation.
 
 ## Special Mention
 Shoutout to Angela Zheng, the most gorgeous and beautiful girl in the world for inspiring every day and suggesting taking this project on!
