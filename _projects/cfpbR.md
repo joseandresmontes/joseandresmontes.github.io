@@ -3,7 +3,7 @@ title: "Consumer Financial Protection Bureau API Client"
 header:
   image: images/post-6.jpg
   teaser: images/post-6.jpg
-excerpt: Access complaint Data in R from CFPB
+excerpt: Access Complaint Data in R from CFPB
 ---
 
 ## cfbpR
