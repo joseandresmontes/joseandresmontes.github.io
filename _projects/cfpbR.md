@@ -1,5 +1,5 @@
 ---
-title: "CFPB API Client"
+title: "Consumer Financial Protection Bureau API Client"
 header:
   image: images/post-6.jpg
   teaser: images/post-6.jpg
