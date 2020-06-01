@@ -1,9 +1,9 @@
 ---
-title: "Nonprofit Charity Navigator API Client"
+title: "Charity Navigator API Client"
 header:
   image: images/post-2.jpg
   teaser: images/post-2.jpg
-excerpt: Access Data in R from Charity Navigator
+excerpt: Access Charity Data in R from Charity Navigator
 ---
 
 ## CharityNavigatoR

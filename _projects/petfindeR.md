@@ -3,7 +3,7 @@ title: "Petfinder API Client"
 header:
   image: images/post-5.jpg
   teaser: images/post-5.jpg
-excerpt: Access Data in R from Petfinder
+excerpt: Access Animal Adoption Data in R from Petfinder
 ---
 
 ## petfindeR
