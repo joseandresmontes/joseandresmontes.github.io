@@ -40,15 +40,17 @@ LLC would be a joint partnership with ASTRULI, a seaweed industry association, a
 The SPL Loans would be underwritten by local banks who would earn an origination fee that is flat for small loans and a percentage for medium to large loans. They would be liable for 10% of loan and matched with a 10% government guarantee offering a 20% insurance on any defaults ensuring rigorous due diligence in underwriting process. The loans would be priced at an annual basis with interest linked to purchase agreements that are automatically renewed at the end of each month. Companies would receive their starting rate based on the date they commitment to agree to buy seaweed. For companies looking to transition to seaweed, they would be eligible for the Blue rate contingent on purchasing within 2 months which would decrease to True Blue rate once fulfilled. Any failure to renew purchase agreement would increase rate to Out of Blue until it is renewed or loan is repaid. 
 To the right, there is an illustration of a transitioning business who wants to finance its transition to seaweed-based products. While not eligible for the True Blue rate, the borrower can get the Blue rate and use discounted loan to fund transition and begin purchases within 2 months.
 
+![image-center](/images/sustainability-investing-challenge/example-rate.png){: .align-center} 
+
 ### Addressable Market
 
-![image-center](/images/sustainability-investing-challenge/alternatives.png){: .align-center}
+![image-center](/images/sustainability-investing-challenge/alternatives.png){: .align-left}
 
 With the current annual growth rate of 1.07%, Indonesia is expected to have 305.7 million citizens in 2035 and an urban population of 66.6%. The population has a high annual consumption of 700 plastic bags per capita which government is attempting to curb with taxes, bans and civic campaigns creating a demand for a seaweed-based bioplastic. For example, in the 2017 World Ocean Summit Declaration, the government committed to spend $1 billion annually on the reduction of plastic waste in order to achieve its goal to reduce plastic waste in its water by 70% within 8 years. Additionally, taxes of Rp 200 on plastic bags or Rp 30,000 on plastic per kilogram were finalized since the end of 2019. In tandem, there is a concurrent policy focus on alleviating pressures on Indonesia's coastal sustainability with seaweed farming being promoted by the government as an alternative environmentally friendly livelihood overfishing. Coupling Indonesians' high demand for plastic and the government's efforts to reduce plastic pollution and promote the seaweed farming sector, Indonesia is an ideal market for biodegradable plastic substitutes.
 
 ### Scalability
 
-![image-center](/images/sustainability-investing-challenge/scalability.png){: .align-center}
+![image-center](/images/sustainability-investing-challenge/scalability.png){: .align-center width=50%}
 
 The first SeaLess Plastic fund focuses near one out of 10 processing plants as a starting point. Thus, this strategy could be scaled across Indonesia near other processing plants. Outside of Indonesia, the fund can target nearby nations such as Malaysia which shares many similarities with the Indonesia. Later iterations of the fund can target China, who is already one of the world's largest producers of seaweed and is trying to curb its plastic waste levels which amount to 59.08 million tons annually, 74% of which are inadequately managed. In all, the SeaLess Plastic fund would be easily scalable within Indonesia and nearby countries and ultimately China who shares a similar high plastic demands as well as the geographical and climatic similarities.
 
@@ -57,8 +59,6 @@ The first SeaLess Plastic fund focuses near one out of 10 processing plants as a
 Size of the investment, target impact, and income fund allocation would make this opportunity particularly appealing for development funds and family foundations whose have a low risk appetite. In particular, foundations and family offices whose impact non-financial goals are addressed by the Fund.
 
 ### Impact Metrics
-
-![image-center](/images/sustainability-investing-challenge/impact.png){: .align-center}
 
 Seaweed based Plastics outcompetes every alternative on the market.  As a form of extractive aquaculture, seaweed-based bioplastics not only rid the market of single use plastics but also provide Indonesia a solution towards reducing carbon emissions and coastal eutrophication while providing higher food and economic security. Completely reliant on saline or brackish water, seaweed-based bioplastics do not require scarce freshwater resources. Gracilaria's flexibility towards pond and open-water cultivation releases huge potential areas for cultivation without infringing on limited cropland. In addition, co-cultivation with shrimp or freshwater fish in ponds could mitigate eutrophication while maximizing space.
 
