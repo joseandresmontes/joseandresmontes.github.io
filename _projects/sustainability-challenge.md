@@ -1,8 +1,8 @@
 ---
 title: "Sustainability Investing Challenge"
 header:
-  image: images/post-3.jpg
-  teaser: images/post-3.jpg
+  image: images/sustainability-investing-challenge/teaser.jpg
+  teaser: images/sustainability-investing-challenge/teaser.jpg
 excerpt: 2020 Kellogg-Morgan Stanley Challenge Finalist
 ---
 
@@ -21,9 +21,13 @@ However, costs associated with the underdevelopment of the domestic seaweed indu
 
 ## Idea
 
+![image-center](/images/sustainability-investing-challenge/investment-overview.png){: .align-center}
+
 Our fund addresses the plastic waste issue and seaweed supply challenges in the Indonesia. Our proposal seeks to help the seaweed industry meet the growing demand for seaweed while enabling businesses transition to this bio-degradable, ecologically friendly, and job-creating material.
 
 ### Innovative Solution
+
+![image-center](/images/sustainability-investing-challenge/funding-diagram.png){: .align-center}
 
 Proposed investments seek to improve the reliability and stability in seaweed supply market through collection operations in an LLC and help the finance transition or scaling of businesses through an innovative purchase agreement linked loan instrument called "SeaLess Plastic" (SLP) Loans.
 LLC would be a joint partnership with ASTRULI, a seaweed industry association, and local government, who already pledged investments in seaweed farming operations and collect, dry, store and sell seaweed. Operations would be strategically executed so as to coordinate annual harvests and help farmers learn the "Sulewasi farming model" compensating those who follow advice with stable and annual seaweed purchase agreements pledged by "Blue Loans" 
