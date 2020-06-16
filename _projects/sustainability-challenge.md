@@ -22,8 +22,6 @@ However, costs associated with the underdevelopment of the domestic seaweed indu
 
 ## Idea
 
-![image-center](/images/sustainability-investing-challenge/investment-overview.png){: height=20%}
-
 ![image-center](/images/sustainability-investing-challenge/industry-overview.png){: .align-center}
 
 Our fund addresses the plastic waste issue and seaweed supply challenges in the Indonesia. Our proposal seeks to help the seaweed industry meet the growing demand for seaweed while enabling businesses transition to this bio-degradable, ecologically friendly, and job-creating material.
