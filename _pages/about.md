@@ -16,7 +16,7 @@ My name is Jose Andres Montes Lopez, and I am an aspiring researcher who hopes t
 
 ### Education
 
-![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/website/cornell-580x300.jpg){: .align-center}
+![image-center](/images/website/cornell-580x300.jpg){: .align-center}
 
 Cornell University, Bachelor Degree in Industrial and Labor Relations
 
