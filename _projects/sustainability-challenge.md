@@ -22,7 +22,7 @@ However, costs associated with the underdevelopment of the domestic seaweed indu
 
 ## Idea
 
-![image-center](/images/sustainability-investing-challenge/investment-overview.png){: height=50% .align-center}
+![image-center](/images/sustainability-investing-challenge/investment-overview.png){: height=50%}
 
 ![image-center](/images/sustainability-investing-challenge/industry-overview.png){: .align-center}
 
@@ -40,7 +40,7 @@ LLC would be a joint partnership with ASTRULI, a seaweed industry association, a
 The SPL Loans would be underwritten by local banks who would earn an origination fee that is flat for small loans and a percentage for medium to large loans. They would be liable for 10% of loan and matched with a 10% government guarantee offering a 20% insurance on any defaults ensuring rigorous due diligence in underwriting process. The loans would be priced at an annual basis with interest linked to purchase agreements that are automatically renewed at the end of each month. Companies would receive their starting rate based on the date they commitment to agree to buy seaweed. For companies looking to transition to seaweed, they would be eligible for the Blue rate contingent on purchasing within 2 months which would decrease to True Blue rate once fulfilled. Any failure to renew purchase agreement would increase rate to Out of Blue until it is renewed or loan is repaid. 
 To the right, there is an illustration of a transitioning business who wants to finance its transition to seaweed-based products. While not eligible for the True Blue rate, the borrower can get the Blue rate and use discounted loan to fund transition and begin purchases within 2 months.
 
-![image-center](/images/sustainability-investing-challenge/example-rate.png){: .align-center} 
+![image-center](/images/sustainability-investing-challenge/example-rate.png){: width=50%} 
 
 ### Addressable Market
 
