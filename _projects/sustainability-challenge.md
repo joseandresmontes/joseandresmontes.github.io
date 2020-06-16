@@ -46,7 +46,7 @@ With the current annual growth rate of 1.07%, Indonesia is expected to have 305.
 
 ### Scalability
 
-![image-center](/images/sustainability-investing-challenge/scalability.png){: .align-center width=50%}
+![image-center](/images/sustainability-investing-challenge/scalability.png){: width=10%}
 
 The first SeaLess Plastic fund focuses near one out of 10 processing plants as a starting point. Thus, this strategy could be scaled across Indonesia near other processing plants. Outside of Indonesia, the fund can target nearby nations such as Malaysia which shares many similarities with the Indonesia. Later iterations of the fund can target China, who is already one of the world's largest producers of seaweed and is trying to curb its plastic waste levels which amount to 59.08 million tons annually, 74% of which are inadequately managed. In all, the SeaLess Plastic fund would be easily scalable within Indonesia and nearby countries and ultimately China who shares a similar high plastic demands as well as the geographical and climatic similarities.
 
