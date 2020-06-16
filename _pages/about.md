@@ -1,7 +1,7 @@
 ---
 title: "Resume"
 header:
-  overlay_image: /images/background-about.jpg
+  overlay_image: /images/website/background-about.jpg
   overlay_color: "#000"
   overlay_filter: "0.5"
   caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
@@ -15,6 +15,8 @@ author_profile: yes
 My name is Jose Andres Montes Lopez, and I am an aspiring researcher who hopes to change the world by bringing insights to leaders so that they can make informed decisions. Leveraging my work experience and educational background, I am looking forward to showcasing work samples and tools that can be of use by anyone interested in the subject that areas that I will be analyzing.
 
 ### Education
+
+![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/website/cornell-580x300.jpg){: .align-center}
 
 Cornell University, Bachelor Degree in Industrial and Labor Relations
 

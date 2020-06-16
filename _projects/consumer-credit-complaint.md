@@ -1,8 +1,8 @@
 ---
 title: "Credit Complaint NLP Analysis"
 header:
-  image: images/post-4.jpg
-  teaser: images/post-4.jpg
+  image: images/consumer-credit-complaint/teaser.jpg
+  teaser: images/consumer-credit-complaint/teaser.jpg
 excerpt: Sentiment and Topic Analysis on Complaint Database
 ---
 
@@ -27,17 +27,17 @@ Finally, topic modeling used the gensim package. The package uses Latent Dirichl
 
 ## Results
 
-![image-center](/images/post-4-figure-1.png){: .align-center}
+![image-center](/images/consumer-credit-complaint/figure-1.png){: .align-center}
 
-![image-center](/images/post-4-figure-2.png){: .align-center}
+![image-center](/images/consumer-credit-complaint/figure-2.png){: .align-center}
 
-![image-center](/images/post-4-figure-3.png){: .align-center}
+![image-center](/images/consumer-credit-complaint/figure-3.png){: .align-center}
 
-![image-center](/images/post-4-figure-4.PNG){: .align-center}
+![image-center](/images/consumer-credit-complaint/figure-4.PNG){: .align-center}
 
-![image-center](/images/post-4-figure-5.PNG){: .align-center}
+![image-center](/images/consumer-credit-complaint/figure-5.PNG){: .align-center}
 
-![image-center](/images/post-4-figure-6.PNG){: .align-center}
+![image-center](/images/consumer-credit-complaint/figure-6.PNG){: .align-center}
 
 # Code
 
