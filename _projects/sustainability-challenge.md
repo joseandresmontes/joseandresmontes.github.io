@@ -22,7 +22,7 @@ However, costs associated with the underdevelopment of the domestic seaweed indu
 
 ## Idea
 
-![image-center](/images/sustainability-investing-challenge/investment-overview.png){: height=50%}
+![image-center](/images/sustainability-investing-challenge/investment-overview.png){height=50%}
 
 ![image-center](/images/sustainability-investing-challenge/industry-overview.png){: .align-center}
 
