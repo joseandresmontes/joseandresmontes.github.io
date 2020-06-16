@@ -8,6 +8,9 @@ header:
 permalink: /resume/
 classes: wide
 author_profile: yes
+feature_row:
+  - image_path: /images/website/cornell.jpg
+    title: "Sustainability Investing Challenge"
 ---
 
 ### About
@@ -16,7 +19,8 @@ My name is Jose Andres Montes Lopez, and I am an aspiring researcher who hopes t
 
 ### Education
 
-![image-center](/images/website/cornell.jpg)
+
+{% include feature_row type="center" %}
 
 Cornell University, Bachelor Degree in Industrial and Labor Relations
 
