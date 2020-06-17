@@ -16,8 +16,6 @@ My name is Jose Andres Montes Lopez, and I am an aspiring researcher who hopes t
 
 ### Education
 
-![image-center](/images/website/cornell.png){: .align-center}
-
 Cornell University, Bachelor Degree in Industrial and Labor Relations
 
 Columbia University, Graduate Degree in Quantitative Methods in Social Sciences
