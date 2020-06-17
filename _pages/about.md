@@ -10,7 +10,6 @@ classes: wide
 author_profile: yes
 feature_row:
   - image_path: /images/website/cornell.jpg
-    title: "Sustainability Investing Challenge"
 ---
 
 ### About
