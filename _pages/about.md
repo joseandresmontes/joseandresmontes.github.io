@@ -8,8 +8,6 @@ header:
 permalink: /resume/
 classes: wide
 author_profile: yes
-feature_row:
-  - image_path: /images/website/cornell.jpg
 ---
 
 ### About
@@ -18,8 +16,7 @@ My name is Jose Andres Montes Lopez, and I am an aspiring researcher who hopes t
 
 ### Education
 
-
-{% include feature_row type="center" %}
+![image-center](/images/website/cornell.png){: .align-center}
 
 Cornell University, Bachelor Degree in Industrial and Labor Relations
 
