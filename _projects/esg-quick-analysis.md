@@ -12,7 +12,7 @@ excerpt: Quick Fun ESG Charts
 
 Jose Andres Montes Lopez (preferred name is Andres)
 
-Experience & Skills
+**Experience & Skills**
 
 * Project Management (Stakeholder exposure & Presentation Skills)
 * Data Analysis (Intermediate Python & R, Experience working with Diverse Datasets)
