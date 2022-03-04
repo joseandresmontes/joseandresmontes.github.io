@@ -26,7 +26,9 @@ The data used is from Yahoo Finance and it covers the full 2020 calendar year. T
 ## Results
 
 ![image-center](/images/esg-quick-analysis/chart-1.png){: .align-center}
-
+![image-center](/images/esg-quick-analysis/chart-2.png){: .align-center}
+![image-center](/images/esg-quick-analysis/chart-3.png){: .align-center}
+![image-center](/images/esg-quick-analysis/chart-4.png){: .align-center}
 
 # Code
 
@@ -100,8 +102,6 @@ Stock_macd <- stock_prices %>%
 Stock_macd
 ```
 
-## Data Manipulation Chart 4
-
 ```
 Stock_macd %>%
     filter(date >= as_date("2016-10-01")) %>%
@@ -117,7 +117,7 @@ Stock_macd %>%
     scale_color_tq()
 ```
 
-## Data Manipulation Chart 5
+## Data Manipulation Chart 4
 
 ```
 Stock_max_by_qtr <- stock_prices %>%
@@ -143,7 +143,9 @@ Stock_by_qtr <- left_join(FANG_max_by_qtr, FANG_min_by_qtr,
                          by = c("symbol"   = "symbol",
                                 "year.qtr" = "year.qtr"))
 Stock_by_qtr
+```
 
+```
 Stock_by_qtr %>%
     ggplot(aes(x = year.qtr, color = symbol)) +
     geom_segment(aes(xend = year.qtr, y = min.close, yend = max.close),
