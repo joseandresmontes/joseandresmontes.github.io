@@ -15,7 +15,18 @@ Jose Andres Montes Lopez
 ## Context
 
 As part of an upcoming interview, I am preparing a quick analysis of a few funds to highlight 
-basic quantitative skills and data visualization using R.
+basic quantitative and data visualizations using R.
+
+The short analyses below leverage an amazing existing package called `tidyquant` which consolidates
+a variety of analytic, manipulation, and visualization packages. In particular, it provides quick access
+to a comprehensive set data sources such as Bloomberg and Yahoo Finance. Another convenient feature of the package is the integration of `dplyr` which is the most popular data manipulation package in R. 
+
+The data used is from Yahoo Finance and it covers the full 2020 calendar year. The funds selected feature an ESG strategy that is applied to the S&P 500 so I selected the IVV which is another iShare ETF which tracks the S&P 500 making it an ideal benchmark for the analyses.
+
+## Results
+
+![image-center](/images/esg-quick-analysis/chart-1.png){: .align-center}
+
 
 # Code
 
@@ -28,7 +39,6 @@ library(ggplot2)
 library(tidyr)
 library(dplyr)
 ```
-
 
 ```
 stock_prices <- c("SUSA", "IVV","XVV") %>%
