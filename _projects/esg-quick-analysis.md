@@ -15,8 +15,8 @@ Jose Andres Montes Lopez (preferred name is Andres)
 **Experience & Skills**
 
 * Project Management (Stakeholder exposure & Presentation Skills)
-* Data Analysis (Intermediate Python & R, Experience working with Diverse Datasets)
-* Demonstrated ESG Interest (Kellog Morgan Stanley Plastic Award Recipient, Social Business Consulting in College, lead internal education pillar in the Social Justice & Impact group)
+* Data Analysis (Intermediate Python & R, Experience working with Diverse Data sets)
+* Demonstrated ESG Interest (Kellog Morgan Stanley Plastic Award Recipient, Social Business Consulting in undergraduate, lead internal Education Pillar in the Social Justice & Impact group)
 
 ## Context
 
