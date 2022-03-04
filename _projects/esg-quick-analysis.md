@@ -6,11 +6,11 @@ header:
 excerpt: Quick Fun ESG Charts 
 ---
 
-# Inntroduction
+# Introduction
 
 ## Candidate
 
-Jose Andres Montes Lopez (prefer name is Andres)
+Jose Andres Montes Lopez (preferred name is Andres)
 
 Experience & Skills
 
