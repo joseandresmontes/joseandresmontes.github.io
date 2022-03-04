@@ -10,25 +10,35 @@ excerpt: Quick Fun ESG Charts
 
 ## Candidate
 
-Jose Andres Montes Lopez
+Jose Andres Montes Lopez (prefer name is Andres)
+
+Experience & Skills
+
+*Project Management (Stakeholder exposure & Presentation Skills)
+*Data Analysis (Intermediate Python & R, Experience working with Diverse Datasets)
+*Demonstrated ESG Interest (Kellog Morgan Stanley Plastic Award Recipient, Social Business Consulting in College, lead internal education pillar in the Social Justice & Impact group)
 
 ## Context
 
 As part of an upcoming interview, I am preparing a quick analysis of a few funds to highlight 
 basic quantitative and data visualizations using R.
 
-The short analyses below leverage an amazing existing package called `tidyquant` which consolidates
-a variety of analytic, manipulation, and visualization packages. In particular, it provides quick access
-to a comprehensive set data sources such as Bloomberg and Yahoo Finance. Another convenient feature of the package is the integration of `dplyr` which is the most popular data manipulation package in R. 
+The short analyses below leverage a package called `tidyquant` that consolidates a variety of analytic, manipulation, and visualization packages. In particular, it provides quick access
+to a comprehensive set of data sources such as Bloomberg and Yahoo Finance. Another popular feature includes the integration of `dplyr` facilitating data transformation and manipulation between data visualizations. 
 
-The data used is from Yahoo Finance and it covers the full 2020 calendar year. The funds selected feature an ESG strategy that is applied to the S&P 500 so I selected the IVV which is another iShare ETF which tracks the S&P 500 making it an ideal benchmark for the analyses.
+The data used is from Yahoo Finance, and it covers the 2020 calendar year. The funds used in the analysis include three ESG ETFs (SUSA, XVV, ESGU) and a "vanilla" ETF (IVV) that tracks the S&P 500. The latter "vanilla" ETF is the benchmark. In the last chart and table, XVV was switched with ESGU to have a complete year to analyze.
 
 ## Results
+
+Overall, the charts below show selected ESG ETFs outperformed the benchmark consistently throughout 2020 and signaled opportunities for trading the ETFs. In charts 1,2 and 5 we see ESG ETF outperforming the benchmark. Chart 4 describes the price ranges of the ETFs. Chart 5 visualizes the MACD displaying multiple opportunities to buy/sell the ESG ETFs based on the acceleration of trends between the benchmark and selected ETFs.
 
 ![image-center](/images/esg-quick-analysis/chart-1.png){: .align-center}
 ![image-center](/images/esg-quick-analysis/chart-2.png){: .align-center}
 ![image-center](/images/esg-quick-analysis/chart-3.png){: .align-center}
 ![image-center](/images/esg-quick-analysis/chart-4.png){: .align-center}
+![image-center](/images/esg-quick-analysis/chart-5.png){: .align-center}
+![image-center](/images/esg-quick-analysis/table-1.png){: .align-center}
+![image-center](/images/esg-quick-analysis/table-2.png){: .align-center}
 
 # Code
 
